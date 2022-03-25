@@ -1,0 +1,15 @@
+{
+  "name": "react-provider",
+  "license": "UNLICENSED",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Shared Bundle",
+  "dependencies": {
+    "@liferay/portal-7.4": "*"
+  },
+  "scripts": {
+    "build": "liferay build",
+    "clean": "liferay clean",
+    "deploy": "liferay deploy"
+  }
+}
