@@ -7,6 +7,6 @@
  * in your dependent projects, before using this shared bundle and you will make
  * sure that this code is executed once.
  */
-console.log('Bootstrapped react-shared');
+console.log('Bootstrapped react_shared');
 
 
