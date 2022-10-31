@@ -1,4 +1,5 @@
-build/*
-dist/*
-node_modules/*
+/.liferay.json
+/node_modules
 
+/build
+/dist
