@@ -1,3 +1,3 @@
-# react-provider
+# react-shared
 
-Shared Bundle
+React Shared
