@@ -7,5 +7,5 @@
  * in your dependent projects, before using this shared bundle and you will make
  * sure that this code is executed once.
  */
-console.log("Bootstraping shared bundle")
+console.log("Bootstraped react provider");
 
