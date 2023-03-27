@@ -247,7 +247,7 @@
             "item-selector-taglib": {
                 "/": "*"
             },
-            "react-shared": {
+            "react-provider": {
                 "/": "*"
             }
         }
@@ -336,7 +336,7 @@
     "create-jar": {
         "features": {
             "js-extender": false,
-            "web-context": "/react-shared"
+            "web-context": "/react-provider"
         }
     },
     "dump-report": true,
