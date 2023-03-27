@@ -334,7 +334,6 @@
         "source-map": true
     },
     "create-jar": {
-        "output-filename": "react-shared.jar",
         "features": {
             "js-extender": false,
             "web-context": "/react-shared"
